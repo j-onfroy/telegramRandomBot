@@ -1,1 +1,1 @@
-worker: sh target/bin/randomBot
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* heroku.App

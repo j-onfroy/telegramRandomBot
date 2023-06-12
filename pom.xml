@@ -38,7 +38,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>Main</mainClass>
+                            <mainClass>org.example.Main</mainClass>
                             <name>randomBot</name>
                         </program>
                     </programs>
